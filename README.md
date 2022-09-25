@@ -1,5 +1,7 @@
 # Hi, I’m shubham rajhans somvanshi.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Skills:+HTML+CSS+BOOTSRAP+TailwindCSS;Language:+javaScript)](https://git.io/typing-svg)
+
 - 👋 I'm a young , prolific and aspiring Software Developer .
 - 👀 I’m interested in  creating elegant solutions in the least amount of time.
 - 🤝 I'm open to collaborate on projects based on HTML, CSS and Javascript..
