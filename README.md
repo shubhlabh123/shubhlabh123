@@ -11,7 +11,14 @@
 
 
 ##  Web Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind	)](https://skillicons.dev)
+
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+
+
 
 <!---
 shubhlabh123/shubhlabh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
