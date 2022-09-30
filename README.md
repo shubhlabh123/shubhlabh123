@@ -17,8 +17,8 @@
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+## Connect with me
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
 
 
 <!---
