@@ -18,9 +18,15 @@
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## Connect with me
-[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shubham.somvanshi.397/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-somvanshi-778193135/)
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhlabh123)](https://github.com/shubhlabh123/github-readme-stats)
+## GitHub Stats
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhlabh123&theme=algolia )](https://github.com/shubhlabh123/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhlabh123&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlabh123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 <!---
 shubhlabh123/shubhlabh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
