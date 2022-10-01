@@ -23,8 +23,10 @@
 ## GitHub Stats
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhlabh123&theme=algolia )](https://github.com/shubhlabh123/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhlabh123&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlabh123&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlabh123&theme=nightowl&exclude_repo=github-readme-stats,shubhlabh123.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=shubhlabh123)
 
 
 <!---
