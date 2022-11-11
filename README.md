@@ -1,7 +1,7 @@
 # Hi, I’m shubham rajhans somvanshi.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=F7522C&center=true&width=835&lines=Skills%3A+++HTML+++++CSS+++Bootstrap+++TailWind+CSS;Language%3A++JavaScript)](https://git.io/typing-svg)
-<img align="right" width="300" height="300" src="https://w7.pngwing.com/pngs/774/674/png-transparent-computer-software-computer-network-information-technology-computer-repair-technician-computer-computer-network-globe-service-thumbnail.png">
+<img align="right" width="300" height="300" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif">
 
 - 👋 I'm a young , prolific and aspiring Software Developer .
 - 👀 I’m interested in  creating elegant solutions in the least amount of time.
