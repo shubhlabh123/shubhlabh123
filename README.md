@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlabh123&theme=nightowl&exclude_repo=github-readme-stats,shubhlabh123.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
