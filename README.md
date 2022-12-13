@@ -15,13 +15,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlabh123)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlabh123)](https://github.com/shubhlabh123/github-readme-stats)
 
 
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhlabh123&show_icons=true&theme=radical)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhlabh123&theme=ayu-light)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhlabh123&show_icons=true&theme=ayu-light)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhlabh123&theme=radical)](https://git.io/streak-stats)
 <br/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shubhlabh123&theme=onedark)
